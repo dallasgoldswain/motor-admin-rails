@@ -61,7 +61,7 @@
     "postcss-loader": "^7.0.0",
     "postcss-preset-env": "^7.6.0",
     "sass-loader": "^13.0.0",
-    "stylelint": "^14.8.5",
+    "stylelint": "^15.10.1",
     "stylelint-config-sass-guidelines": "^9.0.1",
     "stylelint-scss": "^4.2.0",
     "ts-loader": "^9.3.0",
